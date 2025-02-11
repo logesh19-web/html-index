@@ -1,0 +1,53 @@
+<DOCTYPE! html>
+<html lang = "en">
+    <head>
+        <meta charset = "UTF-8">
+        <title>jacksparrow</title>
+    </head>
+    <body>
+        <h1>johnny deep</h1>
+        <img src = "./images/OIP.jpg " height="200" />
+        <h1>summary</h1>
+        <pr><h4>I am a hardworking and dedicaded individual person with services</h4></pr>
+        <hr />
+        <h1>Education</h1> 
+        <ul>
+            <li>bachelor of arts,bussiness asministration of the university</li>
+        </ul>
+        <hr />
+        <h1>work experience</h1>
+        <ul>
+            <li>Customer Service Representative - ABC Inc.</li>
+        </ul>
+        <pr>June 2014 - May 2018</pr>
+        <ul>
+            <li>Assisted with scheduling appointments and meetings</li>
+            <li>Managed incoming and outgoing mail and correspondence
+            </li>
+            <li>Prepared reports and presentations using Microsoft Office Suite
+            </li>
+        </ul>
+        <hr />
+
+        <h1>skills</h1>
+        <ul>
+            <li>Customer service: ⭐️⭐️⭐️⭐️⭐️</li>
+            <li>Microsoft Office Suite: ⭐️⭐️⭐️
+            </li>
+            <li>Organizational skills: ⭐️⭐️⭐️⭐️
+            </li>
+        </ul>
+        <hr />
+        <h1>Awards and Certifications></h1>
+        <ul>
+            <li>Employee of the Month - ABC Inc. (August 2016)
+            </li>
+        <hr />
+        <h1>other</h1>
+        <ul>
+        <li><a href="https://www.scienceofpeople.com/hobbies-for-adults/">hobbies</a></li>
+        <li><a href="https://careerfoundry.com/en/blog/career-change/which-tech-career-path-is-right-for-me/">intrested</a></li>
+        </ul>
+
+    </body>
+</html>
